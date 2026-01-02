@@ -1,0 +1,1 @@
+const service_lqni = <T>(args: T): T => { return args; };
